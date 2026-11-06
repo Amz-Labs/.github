@@ -105,7 +105,7 @@ A Amz Labs foi concebida para crescer além da prestação de serviços. Nosso c
 
 **02 · Tecnologia proprietária** — Transformar experiências de campo em frameworks, plataformas, automações e soluções SaaS.
 
-**03 · Conhecimento que escala** — Expandir o ecossistema para iniciativas educacionais, com formação e conteúdos em tecnologia e, futuramente, marketing.
+**03 · Conhecimento que escala** — Expandir o ecossistema para iniciativas educacionais, com formação e conteúdos em tecnologia e futuramente marketing.
 
 > **Nossa visão é desenvolver uma empresa capaz de operar tecnologia, criar tecnologia e compartilhar tecnologia.**
 
