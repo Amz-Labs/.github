@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="350" viewBox="0 0 680 350" role="img" aria-labelledby="title desc">
+  <title id="title">Engenharia integrada AMZ Labs</title>
+  <desc id="desc">Cloud, DevOps, Observabilidade e SRE, IA e AIOps conectados em um ciclo de melhoria contínua.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#29C9EF"/><stop offset="0.5" stop-color="#9274FF"/><stop offset="1" stop-color="#F472D0"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ABB6D4"/></marker>
+  </defs>
+  <rect width="680" height="350" rx="20" fill="#101525"/>
+  <g fill="#192137" stroke-width="1.5">
+    <rect x="20" y="20" width="290" height="128" rx="12" stroke="#29C9EF"/>
+    <rect x="370" y="20" width="290" height="128" rx="12" stroke="#9274FF"/>
+    <rect x="370" y="202" width="290" height="128" rx="12" stroke="#C48BFF"/>
+    <rect x="20" y="202" width="290" height="128" rx="12" stroke="#F472D0"/>
+  </g>
+  <g stroke="#ABB6D4" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path d="M 320 84 H 357"/>
+    <path d="M 515 158 V 189"/>
+    <path d="M 360 266 H 323"/>
+    <path d="M 165 192 V 161"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g font-size="27" font-weight="700">
+      <text x="165" y="59" fill="#64DEF5">Cloud</text>
+      <text x="515" y="59" fill="#BAA7FF">DevOps</text>
+      <text x="515" y="240" fill="#D4ADFF">Observabilidade</text>
+      <text x="165" y="240" fill="#F797DD">IA &amp; AIOps</text>
+    </g>
+    <g font-size="24" fill="#F0F3FC">
+      <text x="165" y="96">Modernizar e escalar</text>
+      <text x="515" y="96">Acelerar entregas</text>
+      <text x="515" y="277">Enxergar e diagnosticar</text>
+      <text x="165" y="277">Automatizar com controle</text>
+    </g>
+    <g font-size="21" fill="#B9C5DE">
+      <text x="165" y="126">Migração · FinOps</text>
+      <text x="515" y="126">CI/CD · Plataformas</text>
+      <text x="515" y="307">Full-stack · SRE</text>
+      <text x="165" y="307">Integrações · Supervisão</text>
+    </g>
+    <text x="340" y="183" fill="#E3DEFF" font-size="22" font-weight="700">Evolução contínua</text>
+  </g>
+  <rect x="240" y="347" width="200" height="3" rx="1.5" fill="url(#brand)"/>
+</svg>
