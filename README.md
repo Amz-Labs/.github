@@ -7,11 +7,20 @@ Este repositório contém a apresentação institucional exibida na página prin
 
 > O perfil institucional é público. Códigos de clientes, segredos, documentos contratuais e demais materiais sensíveis devem ser mantidos em repositórios privados com permissões apropriadas.
 
-## Como publicar
+## Conteúdo institucional
 
-1. Crie um repositório **público** com o nome exato `.github` na organização `Amz-Labs`.
-2. Envie a estrutura deste pacote para a branch padrão (`main`).
-3. Abra `https://github.com/Amz-Labs` e confira a apresentação na aba **Overview**.
+- [Apresentação pública](./profile/README.md) — proposta de valor e contato.
+- [Soluções de engenharia](./docs/services.md) — desafios, entregáveis e benefícios esperados.
+- [Ecossistema tecnológico](./docs/technology-ecosystem.md) — plataformas e critérios de integração.
+- [Modelos de atuação](./docs/engagement-models.md) — projetos, serviços gerenciados e especialistas.
+
+O logo original fica em `profile/assets/amzlabs-logo.png`. O infográfico `profile/assets/engineering-cycle.svg` contém o ciclo de engenharia integrado, com cores e fundo próprios para leitura em temas claro e escuro.
+
+## Publicação e revisão
+
+O GitHub exibe `profile/README.md` da branch padrão `main` na aba **Overview** de [Amz-Labs](https://github.com/Amz-Labs).
+
+Prepare alterações institucionais em uma branch dedicada e abra um Pull Request. Confira o README renderizado, os links relativos, os assets e o contato antes de integrar a revisão. Mantenha a apresentação principal curta; o catálogo detalhado fica em `docs/`.
 
 ## Próximos passos sugeridos
 
